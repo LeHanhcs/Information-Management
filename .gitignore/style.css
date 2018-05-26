@@ -1,0 +1,104 @@
+.bg{
+	background-color: #eee;
+	color: #000;
+	font-size: 16px;
+	text-align: center;
+	
+}
+.btn:focus{
+	background-color: red;
+}
+.tit1{
+	font-size: 20px;
+	font-weight: bold;
+	color: #f4a024;
+	font-family: Lucida;
+	text-align: center;
+	background-color: #294a70;
+}
+.tit3{
+	font-size: 20px;
+	font-weight: bold;
+	color: #003f7f;
+	font-family: Lucida;
+	text-align: left;
+}
+.p{
+	font-size: 26px;
+	color: #003f7f;
+	font-family: Lucida;	
+}
+.pa{
+	font-size: 20px; 
+	color: #003f7f;
+	text-align: center;
+	font-family: Lucida;	
+}
+.tit2{
+	font-size: 20px;
+	font-weight: bold;
+	color: #003f7f;
+	font-family: Lucida;
+	text-align: center;
+}
+.t{
+	background-color: #294a70;
+	color: #f4a024;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 10px;
+	font-family: Lucida Sans Bold;
+}
+.r{
+	color: #000;
+	font-size: 14px;
+	text-align: center;
+	font-family: Lucida Sans Bold;	
+}
+.mr{
+	font-size: 14px;
+	text-align: right;
+	padding-right: 2px;
+	font-family: Lucida Sans Bold;	
+}
+.ml{
+	font-size: 14px;
+	text-align: left;
+	
+	font-family: Lucida Sans Bold;	
+}
+.ra
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	font-family: Lucida Sans Bold;	
+}
+.rj
+	color: #fff;
+	font-size: 18px;
+	text-align: right;
+	font-family: Lucida Sans Bold;	
+}
+.normal{
+	color: #003f7f;
+	font-size: 18px;
+	text-align: justify;
+}
+#menu ul a{
+ text-decoration:none;
+ background:#f4a024;
+ width:200px;
+ float:left;
+ color:#fff;
+ line-height:30px;
+ text-align:center;
+ border-left: 1px solid #ccc;
+ }
+#menu ul{
+ list-style-type:square;
+ line-height:30px;
+ text-align:center;
+ }
+ #menu ul li{
+display:inline;
+}
